@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/robofriends/static/css/main.c818607e.css",
+    "main.js": "/robofriends/static/js/main.616817ed.js",
+    "static/js/787.783bf20a.chunk.js": "/robofriends/static/js/787.783bf20a.chunk.js",
+    "static/media/Sunflower-Light.woff": "/robofriends/static/media/Sunflower-Light.4cf85e201d4d78247bb7.woff",
+    "static/media/Sunflower-Medium.woff": "/robofriends/static/media/Sunflower-Medium.15623d4a722696859698.woff",
+    "index.html": "/robofriends/index.html",
+    "main.c818607e.css.map": "/robofriends/static/css/main.c818607e.css.map",
+    "main.616817ed.js.map": "/robofriends/static/js/main.616817ed.js.map",
+    "787.783bf20a.chunk.js.map": "/robofriends/static/js/787.783bf20a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c818607e.css",
+    "static/js/main.616817ed.js"
+  ]
+}
